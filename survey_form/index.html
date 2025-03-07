@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Awesome App Survey Form</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="form-container">
+      <h1 id="title">Awesome Survey Form</h1>
+      <p id="description">
+        Please fill out this survey form to help us improve our services.
+      </p>
+
+      <form id="survey-form">
+        <div class="form-group">
+          <label id="name-label" for="name">Name *</label>
+          <input id="name" type="text" placeholder="Enter your name" required />
+        </div>
+
+        <div class="form-group">
+          <label id="email-label" for="email">Email *</label>
+          <input
+            id="email"
+            type="email"
+            placeholder="Enter your email"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label id="number-label" for="number">Age *</label>
+          <input
+            id="number"
+            type="number"
+            min="10"
+            max="100"
+            placeholder="Enter your age"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="dropdown">Which option best describes your role?</label>
+          <select id="dropdown">
+            <option value="student">Student</option>
+            <option value="professional">Professional</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label>Would you recommend us to a friend?</label>
+          <div class="radio-group">
+            <input type="radio" name="recommend" value="yes" id="yes" />
+            <label for="yes">Yes</label>
+          </div>
+          <div class="radio-group">
+            <input type="radio" name="recommend" value="no" id="no" />
+            <label for="no">No</label>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label
+            >What would you like to see improved? (Select all that apply)</label
+          >
+          <div class="checkbox-group">
+            <input type="checkbox" value="design" id="design" />
+            <label for="design">Design</label>
+          </div>
+          <div class="checkbox-group">
+            <input type="checkbox" value="usability" id="usability" />
+            <label for="usability">Usability</label>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="comments">Additional Comments *</label>
+          <textarea
+            id="comments"
+            placeholder="Enter your comments here..."
+          ></textarea>
+        </div>
+
+        <div class="form-group">
+          <button id="submit" type="submit">Submit</button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
