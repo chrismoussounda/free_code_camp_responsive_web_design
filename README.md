@@ -1,4 +1,4 @@
-# Free Code Camp Responsive Web Design Project
+# Free Code Camp Responsive Web Design Projects
 
 ## Overview
 
@@ -25,20 +25,20 @@ This repository contains the projects completed as part of the Free Code Camp Re
 5. **Personal Portfolio Webpage**
    - A personal portfolio to showcase your work and projects, emphasizing design and user experience.
 
-### In Progress Projects
+### Courses Projects Progression
 
-- Learn HTML by Building a Cat Photo App (5% Completed)
-- Learn Basic CSS by Building a Cafe Menu (Not started)
-- Learn CSS Colors by Building a Set of Colored Markers (Not started)
-- Learn HTML Forms by Building a Registration Form (Not started)
-- Learn the CSS Box Model by Building a Rothko Painting (Not started)
-- Learn CSS Flexbox by Building a Photo Gallery (100% completed)
-- Learn Typography by Building a Nutrition Label (Not started)
-- Learn Accessibility by Building a Quiz (Not started)
-- Learn CSS Variables by Building a City Skyline (Not started)
-- Learn CSS Grid by Building a Magazine (Not started)
-- Learn CSS Animation by Building a Ferris Wheel (Not started)
-- Learn CSS Transforms by Building a Penguin (Not started)
+- Learn HTML by Building a Cat Photo App (5% Completed) 🐾
+- Learn Basic CSS by Building a Cafe Menu (Not started) 🚫
+- Learn CSS Colors by Building a Set of Colored Markers (Not started) 🚫
+- Learn HTML Forms by Building a Registration Form (Not started) 🚫
+- Learn the CSS Box Model by Building a Rothko Painting (Not started) 🚫
+- Learn CSS Flexbox by Building a Photo Gallery (100% completed) ✅
+- Learn Typography by Building a Nutrition Label (Not started) 🚫
+- Learn Accessibility by Building a Quiz (Not started) 🚫
+- Learn CSS Variables by Building a City Skyline (Not started) 🚫
+- Learn CSS Grid by Building a Magazine (Not started) 🚫
+- Learn CSS Animation by Building a Ferris Wheel (100% completed) ✅
+- Learn CSS Transforms by Building a Penguin (Not started) 🚫
 
 ## Installation
 
